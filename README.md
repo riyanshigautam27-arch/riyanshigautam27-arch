@@ -1,16 +1,33 @@
-## Hi there 👋
+Riyanshi Gautam
 
-<!--
-**riyanshigautam27-arch/riyanshigautam27-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA | Software Development | Java | Data Structures & Algorithms
 
-Here are some ideas to get you started:
+Computer Science postgraduate at NIT Kurukshetra, interested in building reliable software and solving complex problems through thoughtful engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on software development, algorithms, backend engineering, databases, and data-driven applications. I enjoy turning ideas into practical solutions while maintaining a strong emphasis on clarity, efficiency, and maintainability.
+
+Technical Focus
+
+Java · C++ · Python · JavaScript · SQL
+React.js · Node.js · Express.js
+MongoDB · MySQL · Neo4j
+Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+
+Selected Work
+
+Matrimony Platform
+Full-stack application involving authentication, intelligent matching, graph-based relationship analysis, and real-time communication.
+
+Sales Performance Dashboard
+Data analytics application focused on transforming business data into meaningful insights through analysis and visualization.
+
+Algorithmic Problem Solving
+A continuous collection of Java implementations covering data structures, algorithms, and problem-solving patterns.
+
+Currently Exploring
+Backend Engineering · System Design · Database Architecture · Advanced Algorithms
+
+Building with purpose. Learning continuously. Solving problems thoughtfully.
+Backend Engineering · System Design · Database Architecture · Advanced Algorithms
+
+Building with purpose. Learning continuously. Solving problems thoughtfully.
