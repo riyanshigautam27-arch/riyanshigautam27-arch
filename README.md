@@ -11,7 +11,7 @@ Technical Focus
 Java · C++ · Python · JavaScript · SQL
 React.js · Node.js · Express.js
 MongoDB · MySQL · Neo4j
-Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+Data Structures & Algorithms · OOP · DBMS · Operating Systems 
 
 Selected Work
 
